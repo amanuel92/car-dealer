@@ -216,7 +216,7 @@ export class CarsForSaleListComponent {
         this.carsService.getInventory().subscribe((cars) => {
 
             this.cars = cars.INVENTORY;
-            this.cars = this.cars.filter(car => car.model == this.route.snapshot.params['model']);
+            //this.cars = this.cars.filter(car => car.model == this.route.snapshot.params['model']);
         })
 
 
@@ -224,3 +224,5 @@ export class CarsForSaleListComponent {
 
 
 }
+
+//test
