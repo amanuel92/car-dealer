@@ -1,0 +1,17 @@
+{
+  "TYPES" : [
+"sedan",
+"coupe",
+"suv",
+"crossover",
+"wagon",
+"hybrid",
+"convertible",
+"sports-car",
+"pickup-truck",
+"minivan",
+"luxury-car",
+"certified-preowned"
+]
+
+}

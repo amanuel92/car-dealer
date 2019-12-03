@@ -1,0 +1,160 @@
+
+{
+  "INVENTORY" : [
+{
+  "id":"123",
+  "make":"Tesla",
+  "model":"Model S",
+  "year":"2017",
+  "milage":"50,000",
+  "color":"red",
+  "price":"$60,000",
+  "type":"sedan",
+  "used":"yes",
+  "owners": 2
+
+},
+{
+  "id":"124",
+  "make":"Toyota",
+  "model":"Camera",
+  "year":"2016",
+  "milage":"90,000",
+  "color":"white",
+  "price":"$12,000",
+  "type":"sedan",
+  "used":"yes",
+  "owners": 1
+
+},
+{
+  "id":"125",
+  "make":"Toyota",
+  "model":"Corolla",
+  "year":"2018",
+  "milage":"15,000",
+  "color":"black",
+  "price":"$12,000",
+  "type":"sedan",
+  "used":"yes",
+  "owners": 3
+
+},
+{
+  "id":"126",
+  "make":"BMW",
+  "model":"X5",
+  "year":"2018",
+  "milage":"20,000",
+  "color":"black",
+  "price":"$55,000",
+  "type":"suv",
+  "used":"yes",
+  "owners": 1
+
+},
+{
+  "id":"127",
+  "make":"BMW",
+  "model":"I8",
+  "year":"2017",
+  "milage":"10,000",
+  "color":"blue",
+  "price":"$65,000",
+  "type":"sports-car",
+  "used":"yes",
+  "owners": 2
+
+},
+{
+  "id":"128",
+  "make":"Mercedes-Benz",
+  "model":"S550",
+  "year":"2017",
+  "milage":"15,000",
+  "color":"black",
+  "price":"$69,000",
+  "type":"sedan",
+  "used":"yes",
+  "owners": 1
+
+},
+{
+  "id":"129",
+  "make":"Jeep",
+  "model":"Wrangler",
+  "year":"2007",
+  "milage":"90,000",
+  "color":"black",
+  "price":"$8,000",
+  "type":"crossover",
+  "used":"yes",
+  "owners": 2
+
+},
+{
+  "id":"130",
+  "make":"BMW",
+  "model":"X3",
+  "year":"2016",
+  "milage":"50,000",
+  "color":"red",
+  "price":"$40,000",
+  "type":"suv",
+  "used":"yes",
+  "owners": 1
+
+},
+{
+  "id":"131",
+  "make":"Chrysler",
+  "model":"300",
+  "year":"2019",
+  "milage":"0",
+  "color":"black",
+  "price":"$32,000",
+  "type":"sedan",
+  "used":"no",
+  "owners": 0
+
+},
+{
+  "id":"132",
+  "make":"Tesla",
+  "model":"Model X",
+  "year":"2019",
+  "milage":"0",
+  "color":"black",
+  "price":"$80,000",
+  "type":"suv",
+  "used":"no",
+  "owners": 0
+
+},
+{
+  "id":"133",
+  "make":"Jaguar",
+  "model":"I Pace",
+  "year":"2019",
+  "milage":"0",
+  "color":"black",
+  "price":"$70,000",
+  "type":"suv",
+  "used":"no",
+  "owners": 0
+
+},
+{
+  "id":"134",
+  "make":"BMW",
+  "model":"I8",
+  "year":"2019",
+  "milage":"0",
+  "color":"black",
+  "price":"$80,000",
+  "type":"sports-car",
+  "used":"no",
+  "owners": 0
+
+}]
+}
